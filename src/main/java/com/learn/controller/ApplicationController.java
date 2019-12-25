@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 @RestController
-@RequestMapping("/postgressApp")
+@RequestMapping("/employeeAPI")
 public class ApplicationController {
 
     @Autowired
